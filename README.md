@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasnevs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasnevs" /> </p>
 
-- 🌱 Estou aprendendo **Python, SQL e C**
+- 🌱 Estou aprendendo **Python, SQL, kotlin e C**
 
 - 📝Comecei a escrever no Medium: [https://medium.com/@nevesnicolas100](https://medium.com/@nevesnicolas100)
 
