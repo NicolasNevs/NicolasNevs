@@ -1,13 +1,11 @@
 <h1 align="center">Hey👋, Eu sou o Nicolas</h1>
-<h3 align="center">Apaixonado pelo mundo digital, análise de dados e tecnologia</h3>
+<h3 align="center">Apaixonado pelo mundo digital, usabilidade, análise de dados e tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasnevs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasnevs" /> </p>
 
-- 🌱 Estou aprendendo **Python, SQL, kotlin e C**
+- 🌱 Estou aprendendo **Python, SQL, Lua e C**
 
-- 📝Comecei a escrever no Medium: [https://medium.com/@nevesnicolas100](https://medium.com/@nevesnicolas100)
-
-- 💬 Me pergunte sobre **Data science, pesquisas e tecnologia**
+- 💬 Me pergunte sobre **AI, Data science, pesquisas e tecnologia**
 
 - 📫 Pode me encontrar no E-mail: **nevesnicolas100@gmail.com**
 
